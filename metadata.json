@@ -1,0 +1,6 @@
+{
+  "name": "Simpliers Giveaway Picker",
+  "description": "Pixel-perfect Instagram giveaway picker app with animated entry loading, real-time live winner shuffling, countdown timer, and result verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
